@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/Group9/!svn/ver/216/g9_rest_recommender_final/src/login
+END
+Encrypt.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/Group9/!svn/ver/84/g9_rest_recommender_final/src/login/Encrypt.java
+END
+EncryptPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/Group9/!svn/ver/84/g9_rest_recommender_final/src/login/EncryptPolicy.java
+END
+Register.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/Group9/!svn/ver/112/g9_rest_recommender_final/src/login/Register.java
+END
+DStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/Group9/!svn/ver/84/g9_rest_recommender_final/src/login/DStrategy.java
+END
+EStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/Group9/!svn/ver/84/g9_rest_recommender_final/src/login/EStrategy.java
+END
+Login.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/Group9/!svn/ver/216/g9_rest_recommender_final/src/login/Login.java
+END
+ShiftInserter.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/Group9/!svn/ver/172/g9_rest_recommender_final/src/login/ShiftInserter.java
+END
+DecryptPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/Group9/!svn/ver/84/g9_rest_recommender_final/src/login/DecryptPolicy.java
+END
+EncryptTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/Group9/!svn/ver/182/g9_rest_recommender_final/src/login/EncryptTester.java
+END

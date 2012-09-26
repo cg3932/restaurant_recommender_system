@@ -1,0 +1,55 @@
+10
+
+dir
+249
+http://svn.xp-dev.com/svn/Group9/g9_rest_recommender_final/src
+http://svn.xp-dev.com/svn/Group9
+
+
+
+2009-12-04T04:44:40.149669Z
+249
+christian.gallai
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+605353ee-06d2-4217-8abe-ec3ac18a3239
+
+META-INF
+dir
+
+users
+dir
+
+entities
+dir
+
+g9_rest_recommender_final
+dir
+
+search
+dir
+
+ratings
+dir
+
+login
+dir
+
+recommend
+dir
+
+networkInterface
+dir
+
